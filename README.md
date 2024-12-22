@@ -1,14 +1,11 @@
 The Legend of the Turtle: Turtle Run
 
+A Java-based 2D arcade game where players guide a baby turtle through a maze-like dungeon to escape to the ocean. Along the way, players must collect rewards, avoid hazards, and outsmart dynamic enemies to win.
 
 Game Developers:
-
 Matin Keivanloo
-
 Regan Li
-
 Ana Premovic
-
 Zhaoyue Yuan
 
 
